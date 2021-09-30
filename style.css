@@ -10,11 +10,11 @@ html, body{
 }
 
 .version{
-  font-size: 23px;
+  font-size: 18px;
   color: #fff;
   float: left;
-  margin-left: 20px;
-  margin-top: 45px;
+  margin-left: 5px;
+  margin-top: 10px;
 }
 
 header{
