@@ -5,6 +5,10 @@
   font-family: "Open Sans", sans-serif;
 }
 
+html, body{
+  background: #2980b9;
+}
+
 header{
   height: 120px;
   background: #2f3640;
